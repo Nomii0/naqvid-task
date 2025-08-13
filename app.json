@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "savvy",
+    "slug": "savvy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/savvy-logo-visualimpairmentfriendly.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.savvy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Splash-Screen.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.savvy"
+    },
+    "web": {
+      "favicon": "./assets/Savvy-Customers-App-Icon.png"
+    }
+  }
+}
